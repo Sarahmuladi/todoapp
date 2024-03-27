@@ -1,0 +1,83 @@
+.container1{
+  background-image: linear-gradient(cyan, rgb(85, 85, 192));
+  border-radius: 3px;
+  z-index: 1;
+  width: 800px;
+  margin: 0px auto;
+  padding: 20px;
+}
+
+.container2{
+  background-color: white;
+  border-radius: 3px;
+  width: 300px;
+ 
+  color: black;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  margin-left: 210px;
+  margin-right: 210px;
+  z-index: 2;
+}
+
+.newTodo{
+  width: 280px;
+  height: 35px;
+  padding: 6px;
+  margin: 8px;
+  display: flex;
+}
+
+.task{
+  background-color: beige;
+  width: 280px;
+  height: 35px;
+  padding: 6px;
+  margin: 8px;
+  display: flex;
+}
+
+.firstDiv{
+  height: 35px;
+  width:280px;
+  margin: 8px;
+  padding: 6px;
+}
+
+.lastDiv{
+  height: 35px;
+  width: 280px;
+  margin: 8px;
+  padding: 6px;
+}
+
+.button{
+  background-color: blueviolet;
+  margin-left: 35px;
+}
+
+.deleteIcon{
+  background-color: red;
+  width: 45px;
+  height: 45px;
+  padding: 10px;
+  position: sticky;
+  right: 0px;
+  margin-left: 80px;
+  margin-right: -60px;
+  margin-top: -5px;
+}
+
+.plusIcon{
+  background-color: blueviolet;
+  width: 40px;
+  height: 40px;
+  margin: 0px auto;
+  padding: 0px auto;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+  border: none;
+}
